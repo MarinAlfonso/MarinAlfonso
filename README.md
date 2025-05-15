@@ -1,6 +1,6 @@
 # 👋 Hola, soy Alfonso
 
-![economics gif](https://media.giphy.com/media/l41YhZAD6kUQy3zJK/giphy.gif)
+![GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGh5M3hhYWhucHBrMTNwNmQ4d2txdmc2ejRid2QzazF5c3lsZnNwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QWvcBw9qXs9wiVypPm/giphy.gif)
 
 🎓 Estudiante de Economía en la **Facultad de Economía de la UNAM**  
 📚 Becario del **Programa Universitario de Estudios del Desarrollo (PUED)**  
@@ -29,5 +29,5 @@ Actualmente curso el 8vo semestre y siendo becario en el PUED. Me interesa conec
 
 ---
 
-📌 _“Teach a parrot to say demand and supply, and you have created an economist.
-- Anonymous.”_
+📌 _“Teach a parrot to say demand and supply, and you have created an economist."_
+___
