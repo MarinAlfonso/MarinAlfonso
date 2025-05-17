@@ -17,7 +17,7 @@ Me apasiona entender cómo funcionan las sociedades desde una perspectiva econó
 
 ## 🧠 Sobre mí
 
-Actualmente curso el 8vo semestre y siendo becario en el PUED. Me interesa conectar la teoría económica con herramientas empíricas para proponer soluciones a problemas sociales reales.
+Actualmente curso el 8vo semestre y soy becario en el PUED. Me interesa conectar la teoría económica con herramientas empíricas para proponer soluciones a problemas sociales reales.
 
 ---
 
