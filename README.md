@@ -1,7 +1,6 @@
 👋 Hi, I’m Alfonso
 
 🎓 Economics student at the Faculty of Economics, UNAM
-📚 Research assistant at St Andrews
 🌎 Former Study Abroad UC Berkeley
 
 I am passionate about understanding how societies work from an economic perspective, with an emphasis on:
